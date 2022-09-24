@@ -1,8 +1,9 @@
-function About() {
+import { Link } from 'react-router-dom';
+const About = () => {
   return (
-    <div>
-      <h4 style={{align:'center'}}>Version 1.0.0</h4>
-      <a href="/">Go Back</a>
+    <div align='center'>
+      <h4>Version 1.0.0</h4>
+      <Link style={{color:'black'}} to="/">Go Back</Link>
     </div>
   );
 }

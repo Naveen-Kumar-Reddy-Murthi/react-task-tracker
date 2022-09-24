@@ -1,10 +1,16 @@
 {
   "tasks": [
     {
-      "text": "sdfdf",
-      "day": "dfdf",
+      "text": "dfsdfds",
+      "day": "dfsfd",
       "reminder": true,
       "id": 1
+    },
+    {
+      "text": "Do work out everyday",
+      "day": "Every Fucking day",
+      "reminder": true,
+      "id": 2
     }
   ]
 }
